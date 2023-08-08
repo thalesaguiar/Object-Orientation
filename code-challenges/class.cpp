@@ -4,6 +4,7 @@ using namespace std;
 
 class Student {
     public:
+    
     void input(int nStudents,int *vetScores){
         for(int i = 0; i < nStudents; i++){  
             vetScores[i] = 0;
