@@ -1,4 +1,4 @@
-## Challenge
+## 1 Challenge
 Kristen is a contender for valedictorian of her high school. She wants to know how many students (if any) have scored higher than her in the  exams given during this semester.
 
 Most of the input is handled for you by the locked code in the editor.
